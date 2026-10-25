@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "433662876700",
+    "project_id": "catering-c5cf6",
+    "storage_bucket": "catering-c5cf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433662876700:android:f207c32bc597dbbc7953d9",
+        "android_client_info": {
+          "package_name": "com.caters.catering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433662876700-6ummhm1mvgjmtqrur1hhnf9ie12tq2ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caters.catering",
+            "certificate_hash": "8b5e9cce188e22d49760a4ef4bd7c2cd9c71ce83"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBML3uNGOLAM2qFwNgk7WChz1JxRZKyXXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433662876700:android:c114ef9edd0839ea7953d9",
+        "android_client_info": {
+          "package_name": "com.example.owner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBML3uNGOLAM2qFwNgk7WChz1JxRZKyXXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
